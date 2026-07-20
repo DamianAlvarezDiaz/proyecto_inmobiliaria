@@ -6,7 +6,7 @@
 **Herramientas:** Power BI, Jupyter Notebook.
 **Habilidades:** Exploración y limpieza de base de datos, diseño y planificación de visualización, narrativa de dashboard usando SCQA (Situación, Complicación, Preguntas y Respuestas), análisis de cohortes.
 
-### Descripsión del proyecto
+### Descripción del proyecto
 Proyecto de Bootcamp TripleTen para crear en Power BI un dashboard de análisis comercial inmobiliario, para comprender mejor el desempeño comercial de diferentes tipos de propiedades a través de distintos canales de venta y segmentos de clientes.
 
 ### Objetivos del proyecto
